@@ -1,6 +1,6 @@
-## 📐 Analytical solution
+## 📐 Locally-Exact Homogenization Theory (LEHT)
 
-### Locally-Exact Homogenization Theory (LEHT)
+### 
 The Locally-Exact Homogenization Theory (LEHT) is an analytical approach based on the Trefftz concept, in which the local fields are represented by series expansions that satisfy the governing differential equations. The solution is obtained by imposing continuity conditions at the fiber–matrix interface and periodicity conditions on the unit cell. This methodology allows the effective thermal conductivity of materials with inclusions to be determined. The LEHT formulation implemented in this repository is based on the concepts presented in **DOI:** [https://doi.org/10.1016/j.ijheatmasstransfer.2020.119477].
 
 ### Syntax
