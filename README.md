@@ -58,6 +58,6 @@ Your contributions help improve the reliability and usability of this project fo
 
 ---
 
-## 📚 Authors
+## 📚 Author
 Project developed by:
 * Diogo Tiago dos Santos 📩 diogo.santos@ctec.ufal.br
