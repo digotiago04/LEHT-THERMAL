@@ -42,3 +42,22 @@ The command above will also generate the following plots:
 
 ---
 
+##  💻 Requirements
+The implementation of this tool was entirely developed in the MATLAB environment (version R2022b). Its development did not require the use of additional tools or packages, so the code can be executed in a standard MATLAB installation.
+
+---
+
+## ❌ Reporting issues
+
+We strive to ensure that this Finite-Volume Theory implementation is accurate and efficient. However, if you encounter any unexpected behavior, inconsistencies, or potential bugs in the code, your feedback is highly appreciated.
+
+Please feel free to reach out via email:
+📩 diogo.santos@ctec.ufal.br
+
+Your contributions help improve the reliability and usability of this project for the scientific community.
+
+---
+
+## 📚 Authors
+Project developed by:
+* Diogo Tiago dos Santos 📩 diogo.santos@ctec.ufal.br
