@@ -23,7 +23,7 @@ The `LEHT_Thermal.m` function computes the effective thermal conductivity matrix
 
 ### Usage Example
 
-To run the analysis with a matrix conductivity of $0.5 \ W/(m \cdot °C)$, inclusion conductivity of $4.5 \ W/(m \cdot °C)$, and a volume fraction of 60 %, while also generating the 2D temperature field and extracting profiles at $x_1 = 0.25$ and $x_2 = 0.55$, execute the following command:
+To run the analysis with a matrix conductivity of $0.5 \ W/(m \cdot °C)$, inclusion conductivity of $4.5 \ W/(m \cdot °C)$, and a volume fraction of 60 %, while also generating the 2D temperature field and extracting profiles at $y_1 = 0.25$ and $y_2 = 0.55$, execute the following command:
 * LEHT_Thermal(0.5, 4.5, 0.6, 1, 0.25, 0.55)
 
 ***Command Window Output:***
