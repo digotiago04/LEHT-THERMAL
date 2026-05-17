@@ -37,7 +37,7 @@ EFFECTIVE THERMAL CONDUCTIVITY MATRIX (K*)
 
 The command above will also generate the following plots:
 
-| <img src="imagens/fieldLEHT.png" width="500"> | <img src="imagens/tempV.png" width="500"> | <img src="imagens/tempH.png" width="500"> |
+| <img src="fieldLEHT.png" width="500"> | <img src="tempV.png" width="500"> | <img src="tempH.png" width="500"> |
 | :---: | :---:  |:---: |
 
 ---
