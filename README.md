@@ -63,11 +63,6 @@ Your contributions help improve the reliability and usability of this project fo
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📚 Author
 Project developed by:
 * Diogo Tiago dos Santos 📩 diogo.santos@ctec.ufal.br
